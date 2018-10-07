@@ -1,1 +1,4 @@
+Just setup the repository in my local machine.
+Created a Directory named 'Scripts'.
+Created the file named 'TaskComplete.txt'.
 Just completed my first task.
