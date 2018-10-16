@@ -7,4 +7,4 @@ Linux Brightness Changer - A Python Script to change brightness in Linux if you 
 
 # List of people who used this repository 
 pdeep4494
-
+ShwetaG14
